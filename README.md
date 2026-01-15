@@ -18,7 +18,7 @@ I am a Computer Science student at Northeastern University with a strong backgro
 GPA - 3.92/4.00
 
 **Relevant Coursework**<br/>
-Fundamentals of Computer Science I & II, Discrete Structures,  Logic & Computation, Program Design and Implementation 2, Computer Systems
+Fundamentals of Computer Science I & II, Discrete Structures,  Logic & Computation, Program Design and Implementation 2, Computer Systems, Foundations of Cybersecurity
 
 ---
 ## Activities
