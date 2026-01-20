@@ -15,7 +15,7 @@ I am a Computer Science student at Northeastern University with a strong backgro
 ## Education
 
 **Northeastern University -- Boston, MA**<br/>
-GPA - 3.92/4.00
+GPA - 3.89/4.00
 
 **Relevant Coursework**<br/>
 Fundamentals of Computer Science I & II, Discrete Structures,  Logic & Computation, Program Design and Implementation 2, Computer Systems, Foundations of Cybersecurity
